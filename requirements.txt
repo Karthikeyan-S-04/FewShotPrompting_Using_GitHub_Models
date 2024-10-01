@@ -1,0 +1,10 @@
+azure-ai-inference==1.0.0b4
+azure-core==1.31.0
+certifi==2024.8.30
+charset-normalizer==3.3.2
+idna==3.10
+isodate==0.6.1
+requests==2.32.3
+six==1.16.0
+typing_extensions==4.12.2
+urllib3==2.2.3
